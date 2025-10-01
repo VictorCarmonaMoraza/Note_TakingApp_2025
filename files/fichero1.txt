@@ -1,1 +1,12 @@
-Hola soy victor esto es un fichero de prueba
+
+Este es el nuevo texto creado.
+
+Este es el nuevo texto creado.
+
+Lo añade al final del fichero.
+
+Lo añade al final del fichero.
+
+Lo añade al final del fichero.
+
+Lo añade al final del fichero.
